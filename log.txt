@@ -5,6 +5,7 @@ Ok I managed to do get my program working and can direct the image of 'honest Ab
 I will now commit these to the repository with the following commands
 
 'git add 2D Platformer' , this adds the new directory to the local working copy
+'git commit .' , this commits the new changes to the git history.
 'git push origin 1-start-project-again'  , this updates the branch '1-start-project-again' on the repository with the changes made to the local working copy.
 
 This file will no serve as a ongoing project log for me to keep track of all the necessary information (i.e. where the files are, etc.)
